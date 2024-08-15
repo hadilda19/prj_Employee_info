@@ -1,0 +1,16 @@
+Dr-001
+Satya Nadella
+CEO
+5000567
+SC-0023
+Fatima Dadda
+Secretaire
+80850
+DR-0033
+Bill Gates
+Directeur
+4567890
+CP-0099
+Marco Polo
+Comptable
+789000

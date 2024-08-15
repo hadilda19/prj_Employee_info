@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\prjFinalPOO\bin\Debug\prjFinalPOO.exe.config
+C:\Users\Admin\source\repos\prjFinalPOO\bin\Debug\prjFinalPOO.exe
+C:\Users\Admin\source\repos\prjFinalPOO\bin\Debug\prjFinalPOO.pdb
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.frmEmploye.resources
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.Properties.Resources.resources
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.exe
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.pdb
+C:\Users\Admin\source\repos\prjFinalPOO\obj\Debug\prjFinalPOO.csproj.AssemblyReference.cache
